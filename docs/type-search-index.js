@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.sandra.partes","l":"Cpu"},{"p":"boletin14","l":"Main"},{"p":"com.sandra.partes","l":"Monitor"},{"p":"boletin14","l":"Ordenador"},{"p":"com.sandra.partes","l":"Teclado"}];updateSearchResults();
